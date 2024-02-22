@@ -10,20 +10,10 @@
     - [Previous Mid Q. Analysis](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/UIU_DSA-I_Mid_Q_Analysis.pdf)
     - [Mid Exam Q. Solve](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/tree/main?tab=readme-ov-file#dsa-i-mid-theory-q-solve)
     - Final Exam Q. Solve
-  - DSA-I Laboratory
-    - Assignment Q. Solve
   - DSA-II Theory
+    - Previous Mid Q. Analysis
     - Mid Exam Q. Solve
     - Final Exam Q. Solve
-  - DSA-II Laboratory
-    - Assignment Q. Solve
-
-<br>
-
-### DSA-I Assignment (Theory) Q. Solve
-  | Question (.pdf) | Solution Link |
-  |:---------------:|-------------|
-   \-               | \-
 
 <br>
 
@@ -37,20 +27,6 @@
   [Summer 2023](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/Previous%20Mid%20Questions/Summer23.pdf) | -
   [Fall 2023](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/Previous%20Mid%20Questions/Fall23.pdf) | -
   
-<br>
-
-### DSA-I Final (Theory) Q. Solve
-  | Question (.pdf) | Solution Link |
-  :----------------:|----------------
-  \- | \-
-  
-<br>
-
-### Assignment (Lab) Q. Solve
-  | Question (.pdf) | Solution Link |
-  :----------------:|----------------
-  Assignment 1 | -
-
 <br>
 
 ### How to Save this Repository?
