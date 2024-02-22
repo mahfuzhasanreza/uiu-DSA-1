@@ -7,13 +7,12 @@
 
 ### Content Overview
   - DSA-I Theory
-    - Assignment Q. Solve
-    - Mid Exam Q. Solve
+    - [Previous Mid Q. Analysis](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/UIU_DSA-I_Mid_Q_Analysis.pdf)
+    - [Mid Exam Q. Solve](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/tree/main?tab=readme-ov-file#dsa-i-mid-theory-q-solve)
     - Final Exam Q. Solve
   - DSA-I Laboratory
     - Assignment Q. Solve
   - DSA-II Theory
-    - Assignment Q. Solve
     - Mid Exam Q. Solve
     - Final Exam Q. Solve
   - DSA-II Laboratory
