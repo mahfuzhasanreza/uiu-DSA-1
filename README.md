@@ -2,7 +2,7 @@
 `Based on United International University (UIU)`  
 <br>
 
-**Click [here](https://www.youtube.com/watch?v=L4e-tilKq-E&list=PLTsdGoNQPfQRbALyunpyLvYQu9w4cito4) for Data Structures and Algorithms Video Tutorial**
+**Click [here](https://www.youtube.com/watch?v=L4e-tilKq-E&list=PLTsdGoNQPfQRbALyunpyLvYQu9w4cito4) for Data Structures and Algorithms - 1 Video Tutorial**
 <br>
 
 ### Content Overview
