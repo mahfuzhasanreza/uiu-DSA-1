@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in C++
+# Data Structures and Algorithms 1 in C++
 `Based on United International University (UIU)`  
 <br>
 
@@ -10,14 +10,10 @@
     - [Previous Mid Q. Analysis](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/UIU_DSA-I_Mid_Q_Analysis.pdf)
     - [Mid Exam Q. Solve](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/tree/main?tab=readme-ov-file#dsa-i-mid-theory-q-solve)
     - Final Exam Q. Solve
-  - DSA-II Theory
-    - Previous Mid Q. Analysis
-    - Mid Exam Q. Solve
-    - Final Exam Q. Solve
 
 <br>
 
-### DSA-I Mid (Theory) Q. Solve
+### Mid (Theory) Q. Solve
   | Question (.pdf) | Solution Link |
   :----------------:|----------------
   [Spring 2022](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/Previous%20Mid%20Questions/Spring22.pdf) | -
