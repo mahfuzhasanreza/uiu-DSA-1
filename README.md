@@ -7,13 +7,16 @@
 
 ### Content Overview
   - DSA-I Theory
-    - [Previous Mid Q. Analysis](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/UIU_DSA-I_Mid_Q_Analysis.pdf)
+    - [Video Tutorial Overview (pdf)](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/dsa-1-tutorial-overview.pdf)
+    - [Previous Mid Q. Analysis (pdf)](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/UIU_DSA-I_Mid_Q_Analysis.pdf)
     - [Mid Exam Q. Solve](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/tree/main?tab=readme-ov-file#dsa-i-mid-theory-q-solve)
     - Final Exam Q. Solve
 
 <br>
 
 ### Mid (Theory) Q. Solve
+  - [Time Complexity Q. Solve (pdf)](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/TimeComplexity-Mid-Q-Solve.pdf)
+
   | Question (.pdf) | Solution Link |
   :----------------:|----------------
   [Spring 2022](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/Previous%20Mid%20Questions/Spring22.pdf) | -
