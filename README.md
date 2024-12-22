@@ -28,6 +28,16 @@
   
 <br>
 
+### Mid (Lab) Problem Set
+  | Question (.pdf) | Related Video Link |
+  :----------------:|----------------
+  [Searching Problem](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/DSA-1%20Lab/Searching-Problem-Set.pdf) | -
+  [Sorting Problem](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/DSA-1%20Lab/Sorting-Problem-Set.pdf) | -
+  [Linked List Problem](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/DSA-1%20Lab/Linked-List-Problem-Set.pdf) | -
+  [Assignment-01](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/DSA-1%20Lab/Assignment-01.pdf) | -
+  
+<br>
+
 ### How to Save this Repository?
 `In the top-right corner of this page, click Star`
 
