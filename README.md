@@ -32,7 +32,7 @@
   | Question (.pdf) | Related Video Link |
   :----------------:|----------------
   [Searching Problem](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/DSA-1-Lab/Searching-Problem-Set.pdf) | -
-  [Sorting Problem](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/DSA-1-Lab/Sorting-Problem-Set.pdf) | (Insertion Sort)[https://www.youtube.com/watch?v=Wchle4UPHE4&list=PLTsdGoNQPfQRbALyunpyLvYQu9w4cito4&index=5]
+  [Sorting Problem](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/DSA-1-Lab/Sorting-Problem-Set.pdf) | [Insertion Sort](https://www.youtube.com/watch?v=Wchle4UPHE4&list=PLTsdGoNQPfQRbALyunpyLvYQu9w4cito4&index=5)
   [Linked List Problem](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/DSA-1-Lab/Linked-List-Problem-Set.pdf) | -
   [Assignment-01](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/DSA-1-Lab/Assignment-01.pdf) | -
   
