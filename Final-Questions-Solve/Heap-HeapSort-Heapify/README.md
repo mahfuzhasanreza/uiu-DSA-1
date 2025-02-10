@@ -27,7 +27,7 @@ IV) In a min-heap, the minimum-valued node is always the root of the heap. There
 ### Answer to 3(b) [Spring-24]
 ![Image](https://github.com/user-attachments/assets/860fe9ea-ba1d-4448-87c0-0a0eeb9ab95f)
 
-Click [here](https://github.com/user-attachments/files/18737403/Learn.With.Mahfuz.-.Page.2.pdf) for download the pdf
+Click [here](https://github.com/user-attachments/files/18738006/LearnWithMahfuz-Spring24-3b.pdf) for download the pdf
 
 
 ## Summer - 2024
@@ -42,7 +42,7 @@ So, if the array is already a max-heap, I can proceed with the sorting without c
 **Answer to 4(b):**  
 ![Image](https://github.com/user-attachments/assets/3dee1917-efc1-44f8-9855-0a0fe691d9bd)
 
-Click [here](https://github.com/user-attachments/files/18737800/Learn.With.Mahfuz.-.Page.3.pdf) for download the pdf
+Click [here](https://github.com/user-attachments/files/18738022/LearnWithMahfuz-Summer24-4a.pdf) for download the pdf
 
 ## Summer - 2023
 
