@@ -11,7 +11,9 @@ I) O(log n)
 II)  
 ![Image](https://github.com/user-attachments/assets/fdb61d51-440f-4a65-9ae8-b146b032f8fd)
 
-III) (n-1)/2
+III)  
+For generalize: n-l ; where l is total leaf nodes of a heap 
+For complete binary heap: (n-1)/2
 
 IV) In a min-heap, the minimum-valued node is always the root of the heap. Therefore, its index is:\
 0 (for 0-based indexing) or 1 (for 1-based indexing)
