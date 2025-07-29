@@ -25,6 +25,9 @@
   [Spring 2023](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/Previous%20Mid%20Questions/Spring23.pdf) | -
   [Summer 2023](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/Previous%20Mid%20Questions/Summer23.pdf) | -
   [Fall 2023](https://github.com/mahfuzhasanreza/data-structures-and-algorithms-in-cpp/blob/main/Previous%20Mid%20Questions/Fall23.pdf) | -
+  [Spring 2024](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/Previous%20Mid%20Questions/Spring24.pdf) | -
+  [Fall 2024](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/Previous%20Mid%20Questions/Fall24.pdf) | -
+  [Spring 2025](https://github.com/mahfuzhasanreza/uiu-DSA-1/blob/main/Previous%20Mid%20Questions/Spring25.pdf) | -
   
 <br>
 
